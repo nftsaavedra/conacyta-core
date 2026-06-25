@@ -1,0 +1,18 @@
+/* Conacyta Core — Editor Panel Styles */
+.components-panel .components-text-control__input,
+.components-panel .components-select-control__input {
+    max-width: 100%;
+}
+.components-panel input[type="number"] {
+    width: 100%;
+    max-width: 100%;
+    min-height: 30px;
+    padding: 6px 8px;
+    border: 1px solid #949494;
+    border-radius: 2px;
+}
+
+/* Fallback de colores brand cuando el tema conacyta no está activo */
+.bg-brand-green { background-color: #4CAF50; }
+.bg-brand-blue { background-color: #002855; }
+.bg-brand-darkblue { background-color: #001a38; }

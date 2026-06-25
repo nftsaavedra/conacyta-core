@@ -1,0 +1,9 @@
+import './panels/utils.js';
+import './panels/ponente.js';
+import './panels/actividad.js';
+import './panels/agenda.js';
+import './panels/tarifa.js';
+import './panels/comite.js';
+import './panels/partner.js';
+import './panels/cronograma.js';
+import './panels/portada.js';

@@ -1,0 +1,1157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Conacyta Core 1.0.2\n"
+"Report-Msgid-Bugs-To: https://github.com/nftsaavedra/conacyta-core/issues\n"
+"POT-Creation-Date: 2026-06-24T15:22:03-00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-06-24T15:22:03+00:00\n"
+"Language-Team: Spanish\n"
+"X-Domain: conacyta\n"
+"X-Generator: conacyta-extract-pot\n"
+#: src/admin/panels/agenda.js:74
+msgid "--- Sin color ---"
+msgstr ""
+
+#: src/admin/panels/agenda.js:61
+msgid "--- Sin ponente ---"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:118
+msgid "Acrónimo"
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:16
+msgid "Actividad"
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:15
+#: src/Actividad/ActividadCPT.php:17
+#: src/Actividad/ActividadCPT.php:26
+#: src/Settings/EventoSettings.php:149
+msgid "Actividades"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:19
+msgid "Actualizar Área Temática"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:21
+msgid "Actualizar Auditorio"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:21
+msgid "Actualizar Beneficio"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:21
+msgid "Actualizar Tipo"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:15
+#: src/Agenda/AgendaCPT.php:17
+msgid "Agenda"
+msgstr ""
+
+#: src/Agenda/AgendaVariation.php:57
+msgid "Agenda - Día %d"
+msgstr ""
+
+#: src/Agenda/AgendaVariation.php:27
+msgid "Agenda completa"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:142
+msgid "Alt imagen 1"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:144
+msgid "Alt imagen 2"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:146
+msgid "Alt imagen 3"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:22
+msgid "Anadir Nuevo Auditorio"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:22
+msgid "Anadir Nuevo Beneficio"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:22
+msgid "Anadir Nuevo Tipo"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:27
+msgid "Anadir o quitar auditorios"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:27
+msgid "Anadir o quitar beneficios"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:27
+msgid "Anadir o quitar tipos"
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:18
+msgid "Añadir Actividad"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:18
+msgid "Añadir Fase"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:18
+msgid "Añadir Miembro"
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:19
+msgid "Añadir Nueva Actividad"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:20
+msgid "Añadir Nueva Área Temática"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:19
+msgid "Añadir Nueva Fase"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:19
+msgid "Añadir Nueva Portada"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:19
+msgid "Añadir Nueva Sesión"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:19
+msgid "Añadir Nueva Tarifa"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:19
+msgid "Añadir Nuevo Miembro"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:19
+msgid "Añadir Nuevo Partner"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:19
+msgid "Añadir Nuevo Ponente"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:18
+msgid "Añadir Partner"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:18
+msgid "Añadir Ponente"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:18
+msgid "Añadir Portada"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:18
+msgid "Añadir Sesión"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:18
+msgid "Añadir Tarifa"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:122
+msgid "Año (auto)"
+msgstr ""
+
+#: src/admin/panels/cronograma.js:15
+msgid "Aplica color verde al badge."
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:28
+msgid "Archivo de Agenda"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:14
+msgid "Área Temática"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:13
+#: src/AreaTematica/AreaTematicaTaxonomy.php:15
+msgid "Áreas Temáticas"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:29
+msgid "Atributos de la sesión"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:16
+msgid "Auditorio"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:15
+#: src/Agenda/AuditorioTaxonomy.php:17
+msgid "Auditorios"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:25
+msgid "Auditorios Populares"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:132
+msgid "Badge Fase 1"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:134
+msgid "Badge Fase 2"
+msgstr ""
+
+#: src/admin/panels/ponente.js:35
+msgid "Bandera"
+msgstr ""
+
+#: src/admin/panels/ponente.js:25
+msgid "Bandera del país (16:9)"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:16
+msgid "Beneficio"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:15
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:17
+msgid "Beneficios"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:25
+msgid "Beneficios Populares"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:37
+msgid "Biografia del miembro..."
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:23
+msgid "Buscar Actividades"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:16
+msgid "Buscar Áreas Temáticas"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:24
+msgid "Buscar Auditorios"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:24
+msgid "Buscar Beneficios"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:23
+msgid "Buscar Fases"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:23
+msgid "Buscar Miembros"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:23
+msgid "Buscar Partners"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:23
+msgid "Buscar Ponentes"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:23
+msgid "Buscar Portadas"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:24
+msgid "Buscar Sesiones"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:23
+msgid "Buscar Tarifas"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:24
+msgid "Buscar Tipos"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:51
+msgid "Chatbot"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:126
+msgid "Ciudad"
+msgstr ""
+
+#: src/admin/panels/partner.js:22
+msgid "Colaborador"
+msgstr ""
+
+#: src/admin/panels/actividad.js:33
+msgid "Color del circulo"
+msgstr ""
+
+#: src/admin/panels/agenda.js:71
+msgid "Color del dot"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:26
+#: src/Settings/EventoSettings.php:152
+msgid "Comite"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:17
+msgid "Comité"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:15
+msgid "Comité Organizador"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:14
+#: src/Settings/SettingsPage.php:15
+msgid "CONACYTA 2026"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:25
+#: src/Settings/SettingsPage.php:26
+msgid "Configuración"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:57
+msgid "Configuración de Conacyta"
+msgstr ""
+
+#: src/Agenda/AgendaValidator.php:113
+msgid "Conflicto de horario con la sesión: %s"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:52
+msgid "Contacto"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:37
+msgid "Contenido adicional opcional para el hero..."
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:15
+#: src/Cronograma/CronogramaCPT.php:17
+#: src/Cronograma/CronogramaCPT.php:26
+msgid "Convocatoria"
+msgstr ""
+
+#: src/admin/panels/comite.js:22
+msgid "Coordinador"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:84
+msgid "Countdown"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:106
+msgid "Cuenta Regresiva"
+msgstr ""
+
+#: src/admin/panels/comite.js:12
+msgid "Datos del Miembro"
+msgstr ""
+
+#: src/admin/panels/partner.js:12
+msgid "Datos del Partner"
+msgstr ""
+
+#: src/admin/panels/ponente.js:19
+msgid "Datos del Ponente"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:140
+msgid "Descripción"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:37
+msgid "Descripción del partner..."
+msgstr ""
+
+#: src/admin/panels/actividad.js:15
+msgid "Detalles de Actividad"
+msgstr ""
+
+#: src/admin/panels/agenda.js:28
+msgid "Detalles de Agenda"
+msgstr ""
+
+#: src/admin/panels/cronograma.js:12
+msgid "Detalles de Fase"
+msgstr ""
+
+#: src/admin/panels/portada.js:12
+msgid "Detalles de Portada"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:12
+msgid "Detalles de Tarifa"
+msgstr ""
+
+#: src/admin/panels/agenda.js:31
+msgid "Dia del evento"
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:20
+msgid "Editar Actividad"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:18
+msgid "Editar Área Temática"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:19
+msgid "Editar Auditorio"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:19
+msgid "Editar Beneficio"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:20
+msgid "Editar Fase"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:20
+msgid "Editar Miembro"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:20
+msgid "Editar Partner"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:20
+msgid "Editar Ponente"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:20
+msgid "Editar Portada"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:20
+msgid "Editar Sesión"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:20
+msgid "Editar Tarifa"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:19
+msgid "Editar Tipo"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:154
+msgid "Ejes Temáticos"
+msgstr ""
+
+#: src/Agenda/AgendaValidator.php:145
+msgid "El día de la sesión debe ser >= 1."
+msgstr ""
+
+#: src/Chatbot/ChatbotRestController.php:70
+msgid "El mensaje no puede estar vacio."
+msgstr ""
+
+#: src/Chatbot/ChatbotRestController.php:79
+msgid "El mensaje no puede exceder %d caracteres."
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:28
+#: src/Agenda/AuditorioTaxonomy.php:28
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:28
+msgid "Elegir de los mas usados"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:123
+msgid "Elimina todas las opciones al desinstalar."
+msgstr ""
+
+#: src/admin/panels/ponente.js:38
+msgid "Eliminar"
+msgstr ""
+
+#: src/Agenda/AgendaSaveHandler.php:161
+msgid "Error al guardar la sesión de agenda:"
+msgstr ""
+
+#: src/Chatbot/ChatbotRestController.php:120
+msgid "Error interno al procesar la consulta."
+msgstr ""
+
+#: src/admin/panels/actividad.js:19
+msgid "Escribe para buscar entre los iconos disponibles."
+msgstr ""
+
+#: src/admin/panels/actividad.js:34
+msgid "Escribe rojo, azul, verde... para filtrar colores Tailwind."
+msgstr ""
+
+#: src/admin/panels/tarifa.js:15
+msgid "Estilo visual especial (tarjeta central azul)."
+msgstr ""
+
+#: src/admin/panels/partner.js:19
+msgid "Estrategico"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:16
+msgid "Etiqueta / badge"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:53
+msgid "Evento"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:128
+msgid "Facultad"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:16
+msgid "Fase Convocatoria"
+msgstr ""
+
+#: src/admin/panels/cronograma.js:15
+msgid "Fase destacada"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:120
+msgid "Fecha de fin"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:119
+msgid "Fecha de inicio"
+msgstr ""
+
+#: src/admin/panels/cronograma.js:14
+msgid "Fecha fin"
+msgstr ""
+
+#: src/admin/panels/cronograma.js:13
+msgid "Fecha inicio"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:131
+msgid "Fecha objetivo del countdown"
+msgstr ""
+
+#: src/admin/panels/partner.js:21
+msgid "Gold"
+msgstr ""
+
+#: src/Core/Plugin.php:104
+msgid "Grid de Actividades"
+msgstr ""
+
+#: src/Core/Plugin.php:107
+msgid "Grid de Comité"
+msgstr ""
+
+#: src/Core/Plugin.php:108
+msgid "Grid de Convocatoria"
+msgstr ""
+
+#: src/Core/Plugin.php:109
+msgid "Grid de Partners"
+msgstr ""
+
+#: src/Core/Plugin.php:103
+msgid "Grid de Ponentes"
+msgstr ""
+
+#: src/Core/Plugin.php:106
+msgid "Grid de Tarifas"
+msgstr ""
+
+#: src/Core/Plugin.php:110
+msgid "Hero Home"
+msgstr ""
+
+#: src/admin/panels/agenda.js:47
+msgid "Hora de fin"
+msgstr ""
+
+#: src/admin/panels/agenda.js:37
+msgid "Hora de inicio"
+msgstr ""
+
+#: src/admin/panels/actividad.js:18
+msgid "Icono"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:82
+msgid "Identidad"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:104
+msgid "Identidad del Evento"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:141
+msgid "Imagen 1"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:143
+msgid "Imagen 2"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:145
+msgid "Imagen 3"
+msgstr ""
+
+#: src/admin/panels/ponente.js:46
+msgid "Imagen panoramica 16:9 desde el gestor de medios."
+msgstr ""
+
+#: src/admin/panels/ponente.js:21
+msgid "Institución"
+msgstr ""
+
+#: src/Chatbot/ChatbotSettings.php:215
+msgid "Key guardada: %s"
+msgstr ""
+
+#: src/Agenda/AgendaValidator.php:171
+msgid "La hora de fin debe ser estrictamente posterior a la hora de inicio."
+msgstr ""
+
+#: src/Agenda/AgendaValidator.php:158
+msgid "La hora de fin debe tener formato HH:MM (24h)."
+msgstr ""
+
+#: src/Agenda/AgendaValidator.php:151
+msgid "La hora de inicio debe tener formato HH:MM (24h)."
+msgstr ""
+
+#: src/Shared/Auth.php:39
+msgid "Límite de solicitudes excedido. Intenta de nuevo en un minuto."
+msgstr ""
+
+#: src/Settings/EventoSettings.php:123
+msgid "Limpiar datos al desinstalar"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:18
+msgid "Link del formulario de registro"
+msgstr ""
+
+#: src/Contacto/ContactoRestController.php:88
+msgid "Mensaje enviado correctamente. Nos pondremos en contacto pronto."
+msgstr ""
+
+#: src/Settings/EventoSettings.php:133
+msgid "Mensaje Fase 1"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:135
+msgid "Mensaje Fase 2"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:16
+msgid "Miembro del Comité"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:14
+msgid "Moneda"
+msgstr ""
+
+#: src/Core/Plugin.php:110
+msgid "Muestra la portada principal en formato hero."
+msgstr ""
+
+#: src/Core/Plugin.php:104
+msgid "Muestra las actividades paralelas en una cuadricula."
+msgstr ""
+
+#: src/Core/Plugin.php:108
+msgid "Muestra las fases de la convocatoria en timeline."
+msgstr ""
+
+#: src/Agenda/AgendaVariation.php:58
+msgid "Muestra las sesiones del día %d del evento."
+msgstr ""
+
+#: src/Core/Plugin.php:106
+msgid "Muestra las tarifas e inversion en una cuadricula."
+msgstr ""
+
+#: src/Core/Plugin.php:107
+msgid "Muestra los miembros del comité organizador."
+msgstr ""
+
+#: src/Core/Plugin.php:103
+msgid "Muestra los ponentes magistrales en una cuadricula de 3 columnas."
+msgstr ""
+
+#: src/Core/Plugin.php:109
+msgid "Muestra los socios estrategicos en una cuadricula."
+msgstr ""
+
+#: src/Agenda/AgendaVariation.php:28
+msgid "Muestra todas las sesiones de la agenda ordenadas por día y hora."
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:25
+msgid "No hay actividades en la papelera."
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:25
+msgid "No hay fases en la papelera."
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:25
+msgid "No hay miembros en la papelera."
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:25
+msgid "No hay partners en la papelera."
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:25
+msgid "No hay ponentes en la papelera."
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:25
+msgid "No hay portadas en la papelera."
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:26
+msgid "No hay sesiones en la papelera."
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:25
+msgid "No hay tarifas en la papelera."
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:24
+msgid "No se encontraron actividades."
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:29
+msgid "No se encontraron auditorios."
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:29
+msgid "No se encontraron beneficios."
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:24
+msgid "No se encontraron fases."
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:24
+msgid "No se encontraron miembros."
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:24
+msgid "No se encontraron partners."
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:24
+msgid "No se encontraron ponentes."
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:24
+msgid "No se encontraron portadas."
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:25
+msgid "No se encontraron sesiones."
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:24
+msgid "No se encontraron tarifas."
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:29
+msgid "No se encontraron tipos."
+msgstr ""
+
+#: src/Contacto/ContactoRestController.php:82
+msgid "No se pudo enviar el mensaje. Intenta de nuevo."
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:21
+msgid "Nombre de Nueva Área Temática"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:23
+msgid "Nombre del Nuevo Auditorio"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:23
+msgid "Nombre del Nuevo Beneficio"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:23
+msgid "Nombre del Nuevo Tipo"
+msgstr ""
+
+#: src/Shared/Auth.php:26
+msgid "Nonce inválido o expirado."
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:22
+msgid "Nueva Actividad"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:22
+msgid "Nueva Fase"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:22
+msgid "Nueva Portada"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:21
+msgid "Nueva Sesión"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:22
+msgid "Nueva Tarifa"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:22
+msgid "Nuevo Miembro"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:22
+msgid "Nuevo Partner"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:21
+msgid "Nuevo Ponente"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:117
+msgid "Número de edición"
+msgstr ""
+
+#: src/admin/panels/agenda.js:59
+msgid "Opcional. Busca por nombre del ponente."
+msgstr ""
+
+#: src/admin/panels/agenda.js:72
+msgid "Opcional. Clase Tailwind bg-* del circulo."
+msgstr ""
+
+#: src/Settings/EventoSettings.php:127
+msgid "Organizador"
+msgstr ""
+
+#: src/admin/panels/ponente.js:22
+msgid "País"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:16
+msgid "Partner"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:15
+#: src/Partner/PartnerCPT.php:17
+#: src/Partner/PartnerCPT.php:26
+#: src/Settings/EventoSettings.php:153
+msgid "Partners"
+msgstr ""
+
+#: src/admin/panels/partner.js:20
+msgid "Platinium"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:16
+msgid "Ponente"
+msgstr ""
+
+#: src/admin/panels/agenda.js:58
+msgid "Ponente asociado"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:15
+#: src/Ponente/PonenteCPT.php:17
+#: src/Ponente/PonenteCPT.php:26
+#: src/Settings/EventoSettings.php:148
+msgid "Ponentes"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:16
+msgid "Portada"
+msgstr ""
+
+#: src/admin/panels/portada.js:15
+msgid "Portada principal"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:15
+#: src/Portada/PortadaCPT.php:17
+#: src/Portada/PortadaCPT.php:26
+msgid "Portadas"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:13
+msgid "Precio"
+msgstr ""
+
+#: src/admin/panels/comite.js:18
+msgid "Presidente"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:150
+msgid "Programa"
+msgstr ""
+
+#: src/admin/panels/ponente.js:37
+msgid "Reemplazar"
+msgstr ""
+
+#: src/admin/panels/comite.js:15
+msgid "Rol"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:86
+msgid "Secciones"
+msgstr ""
+
+#: src/admin/panels/comite.js:19
+msgid "Secretario"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:125
+#: src/Settings/SettingsPage.php:83
+msgid "Sede"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:105
+msgid "Sede y Organizador"
+msgstr ""
+
+#: src/admin/panels/ponente.js:42
+msgid "Seleccionar bandera"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:26
+msgid "Separar auditorios con comas"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:26
+msgid "Separar beneficios con comas"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:26
+msgid "Separar tipos con comas"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:16
+msgid "Sesión de Agenda"
+msgstr ""
+
+#: src/Settings/SettingsPage.php:85
+msgid "Sobre"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:107
+msgid "Sobre la Organizacion"
+msgstr ""
+
+#: src/admin/panels/portada.js:16
+msgid "Solo una portada puede ser principal a la vez. Al marcar esta, se desmarcan automáticamente las demás."
+msgstr ""
+
+#: src/admin/panels/portada.js:20
+msgid "Tagline"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:16
+msgid "Tarifa"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:151
+#: src/Tarifa/TarifaCPT.php:15
+#: src/Tarifa/TarifaCPT.php:17
+#: src/Tarifa/TarifaCPT.php:26
+msgid "Tarifas"
+msgstr ""
+
+#: src/admin/panels/comite.js:20
+msgid "Tesorero"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:136
+msgid "Texto CTA"
+msgstr ""
+
+#: src/admin/panels/portada.js:21
+msgid "Texto CTA principal"
+msgstr ""
+
+#: src/admin/panels/portada.js:23
+msgid "Texto CTA secundario"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:16
+msgid "Texto del badge flotante (escribir o seleccionar)"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:17
+msgid "Texto del botón"
+msgstr ""
+
+#: src/admin/panels/portada.js:20
+msgid "Texto descriptivo bajo el título."
+msgstr ""
+
+#: src/admin/panels/tarifa.js:15
+msgid "Tier destacado"
+msgstr ""
+
+#: src/admin/panels/partner.js:15
+msgid "Tipo"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:16
+msgid "Tipo de Sesión"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:15
+#: src/Agenda/AgendaTipoTaxonomy.php:17
+msgid "Tipos de Sesión"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:25
+msgid "Tipos Populares"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:130
+#: src/Settings/EventoSettings.php:139
+msgid "Título"
+msgstr ""
+
+#: src/admin/panels/ponente.js:20
+msgid "Título académico"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:108
+msgid "Titulos de Secciones"
+msgstr ""
+
+#: src/AreaTematica/AreaTematicaTaxonomy.php:17
+msgid "Todas las Áreas Temáticas"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:27
+msgid "Todas las Sesiones"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:18
+msgid "Todos los Auditorios"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:18
+msgid "Todos los Beneficios"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:18
+msgid "Todos los Tipos"
+msgstr ""
+
+#: src/admin/panels/partner.js:18
+msgid "Universidad"
+msgstr ""
+
+#: src/admin/panels/portada.js:22
+msgid "URL CTA principal"
+msgstr ""
+
+#: src/admin/panels/portada.js:24
+msgid "URL CTA secundario"
+msgstr ""
+
+#: src/admin/panels/tarifa.js:18
+#: src/Settings/EventoSettings.php:121
+msgid "URL de inscripción"
+msgstr ""
+
+#: src/Settings/EventoSettings.php:137
+msgid "URL del CTA"
+msgstr ""
+
+#: src/admin/panels/partner.js:26
+msgid "URL sitio web"
+msgstr ""
+
+#: src/Actividad/ActividadCPT.php:21
+msgid "Ver Actividad"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:20
+msgid "Ver Auditorio"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:20
+msgid "Ver Beneficio"
+msgstr ""
+
+#: src/Cronograma/CronogramaCPT.php:21
+msgid "Ver Fase"
+msgstr ""
+
+#: src/Comite/ComiteCPT.php:21
+msgid "Ver Miembro"
+msgstr ""
+
+#: src/Partner/PartnerCPT.php:21
+msgid "Ver Partner"
+msgstr ""
+
+#: src/Ponente/PonenteCPT.php:22
+msgid "Ver Ponente"
+msgstr ""
+
+#: src/Portada/PortadaCPT.php:21
+msgid "Ver Portada"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:22
+msgid "Ver Sesión"
+msgstr ""
+
+#: src/Agenda/AgendaCPT.php:23
+msgid "Ver Sesiones"
+msgstr ""
+
+#: src/Tarifa/TarifaCPT.php:21
+msgid "Ver Tarifa"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:20
+msgid "Ver Tipo"
+msgstr ""
+
+#: src/admin/panels/comite.js:21
+msgid "Vocal"
+msgstr ""
+
+#: src/Agenda/AuditorioTaxonomy.php:30
+msgid "Volver a Auditorios"
+msgstr ""
+
+#: src/Tarifa/BeneficioTarifaTaxonomy.php:30
+msgid "Volver a Beneficios"
+msgstr ""
+
+#: src/Agenda/AgendaTipoTaxonomy.php:30
+msgid "Volver a Tipos"
+msgstr ""
+

@@ -1,0 +1,14 @@
+{
+    "name": "conacyta-core",
+    "version": "1.0.1",
+    "private": true,
+    "scripts": {
+        "build": "wp-scripts build src/admin/index.js --output-path=admin/js",
+        "start": "wp-scripts start src/admin/index.js --output-path=admin/js",
+        "i18n:pot": "node scripts/extract-pot.mjs",
+        "build:zip": "npm run build && node scripts/zip-dist.mjs"
+    },
+    "devDependencies": {
+        "@wordpress/scripts": "32.1.0"
+    }
+}

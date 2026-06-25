@@ -1,0 +1,13 @@
+node_modules/
+vendor/
+admin/js/*.js
+admin/js/*.php
+.DS_Store
+Thumbs.db
+*.log
+.env
+.cache/
+*.zip
+*.rar
+build/
+dist/
